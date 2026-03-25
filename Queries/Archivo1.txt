@@ -1,0 +1,1 @@
+Desarrollo de  consultas avanzados(Subcategorías, agregaciones y agrupaciones)
